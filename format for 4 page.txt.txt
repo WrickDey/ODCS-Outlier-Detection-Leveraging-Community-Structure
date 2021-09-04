@@ -1,0 +1,1 @@
+Abstract, introduction, related work, preliminaries, proposed technique, Experimental evaluation, conclusion

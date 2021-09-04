@@ -1,0 +1,90 @@
+=======================DOLPHIN=================================
+
+
+
+Printing outlier vertices
+
+Printing outlier nodes with degree 1
+4
+11
+12
+22
+31
+35
+48
+58
+60
+
+
+
+---Printing outlier nodes with permanence <= 0.25---
+
+
+1
+7
+30
+
+
+================================================================
+
+
+=============================FOOTBALL===========================
+
+
+Printing outlier vertices
+
+Printing outlier nodes with degree 1
+
+
+
+---Printing outlier nodes with permanence <= 0.25---
+
+
+2
+9
+11
+14
+23
+24
+28
+29
+36
+42
+44
+50
+58
+59
+63
+66
+69
+80
+82
+90
+96
+97
+108
+110
+
+
+
+
+
+=====================================================
+================KARATE===============================
+
+Printing outlier vertices
+
+Printing outlier nodes with degree 1
+11
+
+
+
+---Printing outlier nodes with permanence <= 0.25---
+
+
+0
+1
+2
+8
+19
+33

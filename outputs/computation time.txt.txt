@@ -1,0 +1,12 @@
+ Karate GN :        Computation time: 0.012003
+ Karate Louvain:    Computation time: 0.010000
+
+
+ 
+ Dolphin GN  :	    Computation time: 0.012001
+ Dolphin Louvain:   Computation time:  0.010002
+
+
+ football GN:       Computation time: 0.011000 
+ football Louvain:  Computation time: 0.007003
+
